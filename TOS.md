@@ -12,7 +12,8 @@ Continuous Improvement: We actively work to enhance and improve the features of 
 Now, let's dive into the Terms of Service:
 
 1. Acceptance of Terms
-By using the Bot, you agree to comply with and be bound by these Terms of Service. If you do not agree to these terms, please refrain from using the Bot.
+
+    By using the Bot, you agree to comply with and be bound by these Terms of Service. If you do not agree to these terms, please refrain from using the Bot.
 
 2. Use of the Bot
 
@@ -20,7 +21,9 @@ By using the Bot, you agree to comply with and be bound by these Terms of Servic
 
     2.2. Discord Terms: Your use of the Bot is also subject to the Discord Terms of Service (https://discord.com/terms) and Community Guidelines (https://discord.com/guidelines). Violation of these terms may result in the termination of your access to the Bot.
 
-3. Restrictions: You may not reverse engineer, decompile, or disassemble the Bot. Any attempt to modify, reproduce, or distribute the Bot without authorization is strictly prohibited.
+3. Restrictions
+
+    You may not reverse engineer, decompile, or disassemble the Bot. Any attempt to modify, reproduce, or distribute the Bot without authorization is strictly prohibited.
 
 4. User Conduct
 
@@ -43,19 +46,26 @@ By using the Bot, you agree to comply with and be bound by these Terms of Servic
     5.4. Disclosure: All data stored within Kiai's databases and logs is confidential, and access is only granted to Kiai's Developers. We do NOT sell your personal data and we don’t provide it to anyone outside our organisation for any other purpose than the Service you subscribed for.
 
 6. Refund Policy
-Kiai does not offer refunds for any purchases related to the Bot. All transactions are final. If you have concerns about a purchase, please contact us at support@buape.com to discuss the issue.
+
+    Kiai does not offer refunds for any purchases related to the Bot. All transactions are final. If you have concerns about a purchase, please contact us at support@buape.com to discuss the issue. Any attempts to issue a chargeback against us will result in a permanent blacklist from our Services.
 
 7. Termination
-Kiai reserves the right to terminate your access to the Bot at any time, for any reason, without prior notice. Termination may result from a violation of these Terms of Service or Discord's terms.
+
+    Kiai reserves the right to terminate your access to the Bot at any time, for any reason, without prior notice. Termination may result from a violation of these Terms of Service or Discord's terms.
 
 8. Changes to Terms
-Kiai may update these Terms of Service at any time. Continued use of the Bot after such changes constitutes acceptance of the modified terms.
+
+    Kiai may update these Terms of Service at any time. Continued use of the Bot after such changes constitutes acceptance of the modified terms.
 
 9. Disclaimer of Warranty
-The Bot is provided "as is" without any warranty. Kiai disclaims all warranties, express or implied, regarding the Bot's reliability and performance.
+
+    The Bot is provided "as is" without any warranty. Kiai disclaims all warranties, express or implied, regarding the Bot's reliability and performance.
 
 10. Limitation of Liability
-Kiai is not liable for any direct, indirect, incidental, special, or consequential damages arising from the use or inability to use the Bot.
+
+    Kiai is not liable for any direct, indirect, incidental, special, or consequential damages arising from the use or inability to use the Bot.
+    
+<hr>
 
 Contact Information:
 If you have any questions or concerns regarding these Terms of Service, please contact us at legal@buape.com.
