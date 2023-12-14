@@ -16,37 +16,45 @@ By using the Bot, you agree to comply with and be bound by these Terms of Servic
 
 2. Use of the Bot
 
-2.1. Age Requirement: You must be at least 13 years old to use the Bot. By using the Bot, you affirm that you are over 13 years of age.
+    2.1. Age Requirement: You must be at least 13 years old to use the Bot. By using the Bot, you affirm that you are over 13 years of age.
 
-2.2. Discord Terms: Your use of the Bot is also subject to the Discord Terms of Service (https://discord.com/terms) and Community Guidelines (https://discord.com/guidelines). Violation of these terms may result in the termination of your access to the Bot.
+    2.2. Discord Terms: Your use of the Bot is also subject to the Discord Terms of Service (https://discord.com/terms) and Community Guidelines (https://discord.com/guidelines). Violation of these terms may result in the termination of your access to the Bot.
 
 3. Restrictions: You may not reverse engineer, decompile, or disassemble the Bot. Any attempt to modify, reproduce, or distribute the Bot without authorization is strictly prohibited.
 
 4. User Conduct
 
-4.1. Responsible Use: You agree to use the Bot responsibly and in compliance with applicable laws. Do not engage in any activity that disrupts the normal functioning of the Bot or violates the rights of others.
+    4.1. Responsible Use: You agree to use the Bot responsibly and in compliance with applicable laws. Do not engage in any activity that disrupts the normal functioning of the Bot or violates the rights of others.
 
-4.2. Prohibited Content: You may not use the Bot to distribute, upload, or transmit any content that is illegal, harmful, offensive, or violates the rights of others.
+    4.2. Prohibited Content: You may not use the Bot to distribute, upload, or transmit any content that is illegal, harmful, offensive, or violates the rights of others.
 
-5. Privacy
+5. Privacy Policy
 
-5.1. Data Collection: Kiai may collect and process data related to your use of the Bot. By using the Bot, you consent to the collection and processing of such data in accordance with Kiai's Privacy Policy.
+    5.1. Data Collection: Kiai will collect and process data related to your use of the Bot. We only store and process your personal data when you have voluntarily supplied us with it by interacting with the bot. By using the Bot, you consent to the collection and processing of such data in accordance with this Privacy Policy.
 
-5.2. Third-Party Services: The Bot may utilize third-party services. Your use of these services is subject to their respective terms and policies.
+   5.2. Data We Collect: We collect and process the following information which may include your personal data.
 
-6. Refund Policy
+     - Your Discord ID, Discord Username, Discord Server ID & Name, Discord Channel ID & Name, your user preferences as well as all the data you supply to us and information provided by you when using Kiai Discord Bot.
+
+      - We do not access or store emails or phone numbers for our Discord bot users.
+
+    5.3. Data Retention: All data relating to the XP and leveling of a guild or user is kept for 30 days after a guild has been removed from the bot, at which point it will be cleared from our database.
+
+    5.4. Disclosure: All data stored within Kiai's databases and logs is confidential, and access is only granted to Kiai's Developers. We do NOT sell your personal data and we don’t provide it to anyone outside our organisation for any other purpose than the Service you subscribed for.
+
+7. Refund Policy
 Kiai does not offer refunds for any purchases related to the Bot. All transactions are final. If you have concerns about a purchase, please contact us at support@buape.com to discuss the issue.
 
-7. Termination
+8. Termination
 Kiai reserves the right to terminate your access to the Bot at any time, for any reason, without prior notice. Termination may result from a violation of these Terms of Service or Discord's terms.
 
-8. Changes to Terms
+9. Changes to Terms
 Kiai may update these Terms of Service at any time. Continued use of the Bot after such changes constitutes acceptance of the modified terms.
 
-9. Disclaimer of Warranty
+10. Disclaimer of Warranty
 The Bot is provided "as is" without any warranty. Kiai disclaims all warranties, express or implied, regarding the Bot's reliability and performance.
 
-10. Limitation of Liability
+11. Limitation of Liability
 Kiai is not liable for any direct, indirect, incidental, special, or consequential damages arising from the use or inability to use the Bot.
 
 Contact Information:
