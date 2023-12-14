@@ -42,19 +42,19 @@ By using the Bot, you agree to comply with and be bound by these Terms of Servic
 
     5.4. Disclosure: All data stored within Kiai's databases and logs is confidential, and access is only granted to Kiai's Developers. We do NOT sell your personal data and we don’t provide it to anyone outside our organisation for any other purpose than the Service you subscribed for.
 
-7. Refund Policy
+6. Refund Policy
 Kiai does not offer refunds for any purchases related to the Bot. All transactions are final. If you have concerns about a purchase, please contact us at support@buape.com to discuss the issue.
 
-8. Termination
+7. Termination
 Kiai reserves the right to terminate your access to the Bot at any time, for any reason, without prior notice. Termination may result from a violation of these Terms of Service or Discord's terms.
 
-9. Changes to Terms
+8. Changes to Terms
 Kiai may update these Terms of Service at any time. Continued use of the Bot after such changes constitutes acceptance of the modified terms.
 
-10. Disclaimer of Warranty
+9. Disclaimer of Warranty
 The Bot is provided "as is" without any warranty. Kiai disclaims all warranties, express or implied, regarding the Bot's reliability and performance.
 
-11. Limitation of Liability
+10. Limitation of Liability
 Kiai is not liable for any direct, indirect, incidental, special, or consequential damages arising from the use or inability to use the Bot.
 
 Contact Information:
