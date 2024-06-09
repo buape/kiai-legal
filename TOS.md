@@ -1,5 +1,5 @@
-# Kiai Discord Bot - Terms of Service
-*Effective Date: 14 December 2023*
+# Kiai Discord Bot – Terms of Service
+*Effective Date: 9 June 2024*
 
 By using the Kiai Discord Bot ("the Bot"), you agree to comply with and be bound by these Terms of Service. If you do not agree to these terms, please refrain from using the Bot.
 
@@ -33,17 +33,19 @@ Now, let's dive into the Terms of Service:
 
 5. Privacy Policy
 
-    5.1. Data Collection: Kiai will collect and process data related to your use of the Bot. We only store and process your personal data when you have voluntarily supplied us with it by interacting with the bot. By using the Bot, you consent to the collection and processing of such data in accordance with this Privacy Policy.
+   5.1. Data Collection: Kiai will collect and process data related to your use of the Bot. We only store and process your personal data when you have voluntarily supplied us with it by interacting with the bot. By using the Bot, you consent to the collection and processing of such data in accordance with this Privacy Policy.
 
    5.2. Data We Collect: We collect and process the following information which may include your personal data.
 
      - Your Discord ID, Discord Username, Discord Server ID & Name, Discord Channel ID & Name, your user preferences as well as all the data you supply to us and information provided by you when using Kiai Discord Bot.
 
-      - We do not access or store emails or phone numbers for our Discord bot users.
+     - If you are a premium user (via user or guild premium) and you use the custom rank card background feature of the Bot, we store the image you uploaded to our servers for the purpose of displaying it on the rank card. This image is stored indefinitely until deleted from our servers by you or by us via the appropriate command.
+     
+     - We do not access or store emails or phone numbers for our Discord bot users.
+     
+   5.3. Data Retention: All data relating to the XP and leveling of a guild or user is kept for 30 days after a guild has been removed from the bot, at which point it will be cleared from our database.
 
-    5.3. Data Retention: All data relating to the XP and leveling of a guild or user is kept for 30 days after a guild has been removed from the bot, at which point it will be cleared from our database.
-
-    5.4. Disclosure: All data stored within Kiai's databases and logs is confidential, and access is only granted to Kiai's Developers. We do NOT sell your personal data and we don’t provide it to anyone outside our organisation for any other purpose than the Service you subscribed for.
+   5.4. Disclosure: All data stored within Kiai's databases and logs is confidential, and access is only granted to Kiai's Developers. We do NOT sell your personal data and we don’t provide it to anyone outside our organisation for any other purpose than the Service you subscribed for.
 
 6. Refund Policy
 
