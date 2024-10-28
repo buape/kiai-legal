@@ -1,5 +1,5 @@
 # Kiai Discord Bot – Terms of Service
-*Effective Date: 9 June 2024*
+*Effective Date: 27 October 2024*
 
 By using the Kiai Discord Bot ("the Bot"), you agree to comply with and be bound by these Terms of Service. If you do not agree to these terms, please refrain from using the Bot.
 
@@ -9,7 +9,6 @@ As the provider of Kiai, Buape Studios is committed to:
 Reliability: We strive to maintain the reliability and performance of the Bot to enhance your Discord experience.
 Transparency: We are transparent about our data collection practices. Please refer to our Privacy Policy for details on how we handle your data.
 Continuous Improvement: We actively work to enhance and improve the features of Kiai to provide you with an even better user experience.
-Now, let's dive into the Terms of Service:
 
 1. Acceptance of Terms
 
@@ -42,6 +41,8 @@ Now, let's dive into the Terms of Service:
      - If you are a premium user (via user or guild premium) and you use the custom rank card background feature of the Bot, we store the image you uploaded to our servers for the purpose of displaying it on the rank card. This image is stored indefinitely until deleted from our servers by you or by us via the appropriate command.
      
      - We do not access or store emails or phone numbers for our Discord bot users.
+  
+     - We do not store or parse messages from any users, except for other bots that provide logging data that we scrape. We do not access any messages sent by users, only bot messages, and they are not stored in our database.
      
    5.3. Data Retention: All data relating to the XP and leveling of a guild or user is kept for 30 days after a guild has been removed from the bot, at which point it will be cleared from our database.
 
@@ -49,7 +50,7 @@ Now, let's dive into the Terms of Service:
 
 6. Refund Policy
 
-    Kiai does not offer refunds for any purchases related to the Bot. All transactions are final. If you have concerns about a purchase, please contact us at support@buape.com to discuss the issue. Any attempts to issue a chargeback against us will result in a permanent blacklist from our Services.
+    Kiai does not offer refunds for any purchases related to the Bot except for extreme situations that have been preapproved by Buape Studios. All transactions are final. If you have concerns about a purchase, please contact us at support@buape.com to discuss the issue. Any attempts to issue a chargeback against us will result in a permanent blacklist from our Services.
 
 7. Termination
 
